@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\Aysun208\Aysun208\obj\Debug\net8.0\Aysun208.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Aysun208\Aysun208\obj\Debug\net8.0\Aysun208.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Aysun208\Aysun208\obj\Debug\net8.0\Aysun208.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Aysun208\Aysun208\obj\Debug\net8.0\Aysun208.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Aysun208\Aysun208\bin\Debug\net8.0\Aysun208.exe
+C:\Users\Asus\source\repos\Aysun208\Aysun208\bin\Debug\net8.0\Aysun208.deps.json
+C:\Users\Asus\source\repos\Aysun208\Aysun208\bin\Debug\net8.0\Aysun208.runtimeconfig.json
+C:\Users\Asus\source\repos\Aysun208\Aysun208\bin\Debug\net8.0\Aysun208.dll
+C:\Users\Asus\source\repos\Aysun208\Aysun208\bin\Debug\net8.0\Aysun208.pdb
+C:\Users\Asus\source\repos\Aysun208\Aysun208\obj\Debug\net8.0\Aysun208.dll
+C:\Users\Asus\source\repos\Aysun208\Aysun208\obj\Debug\net8.0\refint\Aysun208.dll
+C:\Users\Asus\source\repos\Aysun208\Aysun208\obj\Debug\net8.0\Aysun208.pdb
+C:\Users\Asus\source\repos\Aysun208\Aysun208\obj\Debug\net8.0\Aysun208.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Aysun208\Aysun208\obj\Debug\net8.0\ref\Aysun208.dll
